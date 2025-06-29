@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { ShoppingCart, Star, ChevronDown, Menu, X, User, LogOut, Eye, EyeOff } from 'lucide-react';
-import {useNavigate} from "react-router-dom"
+import {useNavigate} from "react-router-dom";
 
 export default function DonutShop() {
 
